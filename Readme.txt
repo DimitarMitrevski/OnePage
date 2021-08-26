@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+#A one pager page for an informal group of young people called ChangeMakers Bitola
 
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
+This project was hosted on Firebase hosting to see how it works follow this link https://changemakersbitola.co[https://changemakersbitola.co]
+
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
